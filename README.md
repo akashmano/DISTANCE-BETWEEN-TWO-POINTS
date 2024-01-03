@@ -30,7 +30,8 @@ print("{:.2f}".format(distance))
 ``````
 
 ### OUTPUT:
-![Alt text](<Screenshot 2024-01-03 161058.png>)
+![Screenshot 2024-01-03 161058](https://github.com/akashmano/DISTANCE-BETWEEN-TWO-POINTS/assets/137408306/4777db42-0109-4907-a2f0-81fd87f8b2f8)
+
 
 ### RESULT:
 thus the result is printed
